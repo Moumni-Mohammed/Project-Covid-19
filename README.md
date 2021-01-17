@@ -1,1 +1,1 @@
-![Covid-19](https://user-images.githubusercontent.com/64795535/103277658-d70ade80-49c9-11eb-974d-35d733cd3a83.jpg)
+![Classe_Covid](https://user-images.githubusercontent.com/64795535/104857055-41060c00-5916-11eb-9f38-7dc21104fa55.jpg)

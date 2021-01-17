@@ -1,8 +1,8 @@
 using System;
 
-public class NonInfecte : Citoyen
+public class Test : Patient
 {
-   private bool vaccine;
-   private bool testPCR2;
+   private int P_id;
+   private string TestPcr;
 
 }

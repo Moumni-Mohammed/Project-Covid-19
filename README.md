@@ -1,1 +1,1 @@
-![Etats_Covid](https://user-images.githubusercontent.com/64795535/103277835-2a7d2c80-49ca-11eb-8a64-511053e49a17.jpg)
+![Covid_Etats](https://user-images.githubusercontent.com/64795535/104862636-d95eb980-5933-11eb-8025-42b2c7f2a7e2.jpg)

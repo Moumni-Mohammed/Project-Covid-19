@@ -21,7 +21,7 @@ namespace Corona
 
         SqlConnection cnx = new SqlConnection(@"Data Source=DESKTOP-S86SJHL;Initial Catalog=Corona;Integrated Security=True");
 
-        public int IdCitoyen;
+        public int Pid;
 
         private void Form1_Load(object sender, EventArgs e)
         {
@@ -41,7 +41,7 @@ namespace Corona
             dt.Load(sdr);
             cnx.Close();
 
-            CitoyenRecordDataGridView.DataSource = dt;
+            PatientRecordDataGridView.DataSource = dt;
         }
 
 
@@ -63,7 +63,7 @@ namespace Corona
             cmd.ExecuteNonQuery();
             cnx.Close();
 
-            MessageBox.Show("New Citoyen is saved successefully", "Seved", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            MessageBox.Show("New Patient is saved successefully", "Seved", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
             GetPatientRecord();
 
